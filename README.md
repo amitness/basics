@@ -9,6 +9,7 @@ List of common tasks you should be able to do in any programming language
 ### Arrays / List
 - Declare an array
 - Access element at a index
+- Access last element
 - Find length of array
 - Add item to end of array
 - Add item to beginning of array
