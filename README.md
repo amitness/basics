@@ -1,6 +1,11 @@
 # basics
 List of common tasks you should be able to do in any programming language
 
+
+**Aim:** 
+> To list 20% of features which are used 80% of the time.
+
+
 ### Arrays / List
 - Declare an array
 - Access element at a index
