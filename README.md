@@ -59,7 +59,7 @@ List of common tasks you should be able to do in any programming language
 ### Numbers
 - Integer
 - Floating point number
-- Arithmetic: +, -, \*, /
+- Arithmetic: Add, Subtract, Multiply, Divide
 - Raise to power
 - Round float point num
 - Find square root
