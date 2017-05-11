@@ -7,8 +7,8 @@ List of common tasks you should be able to do in any programming language
 
 
 ### Arrays / List
-- Declare an array
-- Access element at an index
+- Declare array
+- Access element at index
 - Access last element
 - Find length of array
 - Add item to end of array
@@ -18,13 +18,13 @@ List of common tasks you should be able to do in any programming language
 - Find index of item in array
 - Find count of item in array
 - Merge elements of another array into current array
-- Double all elements of array
-- Find sum of elements of array
-- Sort the array
-- Reverse the array
-- Filter the array
-- Duplicate the array without reference
-- Run a loop on the array
+- Double all items of array
+- Find sum of items of array
+- Sort array
+- Reverse array
+- Filter array
+- Duplicate array without reference
+- Loop on array
 - Find smallest item
 - Find largest item
 
@@ -38,7 +38,7 @@ List of common tasks you should be able to do in any programming language
 - Split into lines
 - Loop over characters
 - Check if substring in string
-- Check if string start with substring
+- Check if string starts with substring
 - Check if string ends with substring
 - Compare two strings
 - Concatenate two strings
