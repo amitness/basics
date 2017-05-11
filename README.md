@@ -8,7 +8,7 @@ List of common tasks you should be able to do in any programming language
 
 ### Arrays / List
 - Declare an array
-- Access element at a index
+- Access element at an index
 - Access last element
 - Find length of array
 - Add item to end of array
@@ -27,3 +27,31 @@ List of common tasks you should be able to do in any programming language
 - Run a loop on the array
 - Find smallest item
 - Find largest item
+
+### Strings
+- Slicing
+- Uppercase
+- Lowercase
+- Capitalize
+- Split into characters
+- Split into words
+- Split into lines
+- Loop over characters
+- Check if substring in string
+- Check if string start with substring
+- Check if string ends with substring
+- Compare two strings
+- Concatenate two strings
+- Length of strings
+- Copy one string into another
+- Trim whitespace at beginning
+- Trim whitespace at end
+- Find position of substring in string
+- Handle unicode characters
+- Convert character into ascii
+- Convert ascii into character
+- Convert number into string
+- Convert numeric string into number
+- Convert string into JSON
+- Convert JSON into string
+- String interpolation
