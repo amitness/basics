@@ -55,3 +55,12 @@ List of common tasks you should be able to do in any programming language
 - Convert string into JSON
 - Convert JSON into string
 - String interpolation
+
+### Numbers
+- Integer
+- Floating point number
+- Arithmetic: +, -, \*, /
+- Raise to power
+- Round float point num
+- Find square root
+- Casting
